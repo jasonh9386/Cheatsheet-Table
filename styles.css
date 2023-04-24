@@ -1,0 +1,43 @@
+body {
+    font-family: "Manrope", sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+    line-height: 1.75;
+    text-align: center;
+    letter-spacing: 0.2em;
+    font-size: 40px;
+    
+}
+
+h2 {
+    font-weight: 200;
+    text-align: center;
+    font-size: 17px;
+    letter-spacing: 0.2em;
+    padding-bottom: 20px;
+    content: ""; 
+    display: block; 
+    margin: 0 auto; 
+    width: 40%; 
+    padding-top: 20px; 
+    border-bottom: 2px solid #152914; 
+    
+}
+
+
+table {
+    border: 3px solid #447341;
+    width: 700px;
+    margin: 0px auto;
+    margin-top: 100px;
+}
+
+thead {
+    background-color: #abdba9;
+}
+
+td {
+    border-top: 1px solid #abdba9;
+}
